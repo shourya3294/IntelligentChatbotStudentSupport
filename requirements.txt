@@ -1,0 +1,4 @@
+rasa
+flask
+flask_cors
+requests
